@@ -1,0 +1,1 @@
+here the OTA WORK FIRMWARE for the 027000_IOT
