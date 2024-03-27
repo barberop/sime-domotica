@@ -1,0 +1,1 @@
+here the OTA FACTORY FIRMWARE for the 027000_IOT
