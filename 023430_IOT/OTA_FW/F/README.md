@@ -1,1 +1,1 @@
-here the OTA FACTORY FIRMWARE for the 041220_IOT
+here the OTA FACTORY FIRMWARE for the 023430_IOT
