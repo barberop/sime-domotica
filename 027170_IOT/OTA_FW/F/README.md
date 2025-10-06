@@ -1,0 +1,1 @@
+Here the OTA FACTORY FIRMWARE for the 027170_IOT
