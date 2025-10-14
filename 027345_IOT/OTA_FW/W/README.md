@@ -1,0 +1,1 @@
+here the OTA WORK FIRMWARE for 027345_IOT
